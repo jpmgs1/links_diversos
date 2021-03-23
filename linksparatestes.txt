@@ -4,8 +4,6 @@ https://github.com/rynz01/rybot
 
 https://github.com/RTeam1/wabot1
 
-SamBosa-Sticker-Bot
-
 https://github.com/mukhlisakbr/node-whatsapp-bot
 
 https://github.com/shanduy/ShanBot/blob/main/src/help.js
