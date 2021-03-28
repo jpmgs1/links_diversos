@@ -1,5 +1,5 @@
 {
-"app" :WhatsApp, 
-"sender" :WhatsApp, 
+"app" :WhatsAuto, 
+"sender" :WhatsAuto, 
 "message" : Olá seu Zé
 }
